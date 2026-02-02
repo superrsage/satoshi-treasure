@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "esformatter-jsx": "^8.0.1",
-    "eslint": "^5.16.0",
+    "eslint": "^9.26.0",
     "eslint-plugin-react": "^7.13.0"
   },
   "scripts": {
